@@ -2,23 +2,23 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://anfa2091.github.io/goit-js-hw-10/",
+  "homepage": "https://https://anfa2091.github.io/goit-js-hw-10/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10.git/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anfa2091/goit-js-hw-10.git"
+    "url": "git+https://anfa2091.github.io/goit-js-hw-10.git"
   },
   "keywords": [],
-  "author": "Antony Cordoba <anfa2091@gmail.com>",
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/anfa2091/goit-js-hw-10/issues"
   },
   "dependencies": {
-    "flatpickr": "^4.6.13",
+    "lodash.debounce": "^4.0.8",
     "modern-normalize": "^1.1.0",
     "notiflix": "^3.2.6"
   },
