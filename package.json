@@ -12,10 +12,10 @@
     "url": "git+https://github.com/anfa2091/goit-js-hw-10.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Antony Cordoba <anfa2091@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/anfa2091/goit-js-hw-10/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
